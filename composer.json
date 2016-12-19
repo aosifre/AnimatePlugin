@@ -2,9 +2,9 @@
   "name": "neopel/cakephp-plugin-animate",
   "description": "CakePHP plugin animate",
   "homepage": "https://github.com/neopel/AnimatePlugin",
-  "type": "library",
+  "type": "cakephp-plugin",
   "license": "GNU",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "require": {
     "php": ">=5.5.9",
     "cakephp/cakephp": "~3.3"

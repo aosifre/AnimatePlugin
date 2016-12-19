@@ -4,7 +4,7 @@
   "homepage": "https://github.com/neopel/AnimatePlugin",
   "type": "cakephp-plugin",
   "license": "GNU",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "require": {
     "php": ">=5.5.9",
     "cakephp/cakephp": "~3.3"
